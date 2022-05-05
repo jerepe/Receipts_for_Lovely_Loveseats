@@ -7,4 +7,4 @@ Used to train myself on variables storing and updating. Prints the recipes of a 
 Using Emacs and the CLI ( for working "muscles" practice)
 
 ### Renders like this:
-<img width="796" alt="Screenshot Lovely Loveseats" src="~/Documents/Gities/Receipts_for_Lovely_Loveseats/Screenshot 2022-05-05 at 16.49.22.png">
+<img width="796" alt="Screenshot Lovely Loveseats" src="~/Documents/Gities/Receipts_for_Lovely_Loveseats/pic.png">
