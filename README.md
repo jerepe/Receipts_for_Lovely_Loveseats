@@ -7,4 +7,4 @@ Prints the recipes of a customer of a nice seats shop :)
 Using Emacs and the CLI ( for working "muscles" practice)
 
 ### Renders like this:
-![Lovely Loveseats](Receipts_for_Lovely_Loveseats/pic.png)
+![Lovely Loveseats](pic.png)
