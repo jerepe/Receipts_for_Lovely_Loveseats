@@ -7,8 +7,8 @@
 > Using Emacs and the CLI ( for working "muscles" practice)
 
 ### Why ?
-> Codecademy didn't ask for an upload to GitHub, did it for training purposes. 
-> Learned how to upload a pic to GitHub from terminal ! :)
+> Chose to use CLI and Emacs to train myself to become more comfortable with them.
+> Side unexpected bonus is i learned how to upload a pic to GitHub from terminal ! Neat :)
 
 ### Renders like this:
 > ![Lovely Loveseats](pic.png)
